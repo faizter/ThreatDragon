@@ -1,5 +1,4 @@
 {
-  "version": "2.0.9",
   "summary": {
     "title": "Bedrohungsmodell - OTT Auth",
     "owner": "Firma Allsecure",
@@ -2056,5 +2055,6 @@
     "reviewer": "Georg Neugebauer",
     "diagramTop": 10,
     "threatTop": 118
-  }
+  },
+  "version": "2.0.9"
 }
